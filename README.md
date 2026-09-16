@@ -2,6 +2,8 @@
 
 I am an aspiring accountant
 
+* For Resume, click [here](Link for resume from githack - url in production - here)
+
 ---
 
 ### 🎓 About Me
