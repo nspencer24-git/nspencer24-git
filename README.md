@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Nick 👋
 
-<!--
-**nspencer24-git/nspencer24-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring accountant
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About Me
+
+* 🏫 **Education:** Currently pursuing a Bachelors degree in Finance and accounting at Baldwin Wallace University (Expected Graduation: 2028)
+* 🔭 **Current Focus:** Learning Managerial and time based accounting
+* 🌱 **Currently Building:** Website for my resume
+* 💡 **Interests:** Football, Baseball
+* ⚡ **Fun Fact:** I have 100% The batman Arkham games
+
+---
+
+### 📌 Featured Projects
+
+| Project Name | Description | Tech Used |
+| --- | --- | --- |
+| **GameHub WebApp** | WebApp built on PythonAnywhere using CoPilot | `[Python]` `[Flask]` |
+
+
+---
+
+
+### 📫 Connect With Me
+
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* **Email:** nspencer24@bw.edu
